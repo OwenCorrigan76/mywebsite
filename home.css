@@ -1,0 +1,60 @@
+@import url("grid.css");
+@import url("image.css");
+@import url("nav.css");
+
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: small;
+  line-height: 1.6em;
+}
+
+h1, h2 {
+  color: #000000;
+}
+
+h1 {
+  font-size: 150%;
+}
+
+h2 {
+  font-size: 130%;
+}
+
+
+
+.special {
+  color: #501717;
+}
+
+.highlight {
+  color: blue;
+}
+
+.guarantee {
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+
+  background-color: #7ec5c5;
+  background-repeat: no-repeat;
+  background-position: left;
+
+  margin: 30px;
+  padding: 25px;
+  padding-left: 80px;
+  margin-right: 50px;
+
+  line-height: 1.9em;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+
+  border-color: #5883d4;
+  border-width: 1px;
+  border-style: dashed;
+}
+
+
+
+
+
