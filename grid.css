@@ -31,7 +31,7 @@
 #maincontent2 {
   grid-column-start: 2;
   display: grid;
-  grid-template-columns: 16% 16% 16% 16% 16%;
+  grid-template-columns: 15% 15% 15% 15% 15%;
   grid-gap: 3%;
 }
 #maincontent3 {
