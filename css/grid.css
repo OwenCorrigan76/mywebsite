@@ -4,6 +4,10 @@
   grid-gap: 1%;
 }
 
+.background {
+
+}
+
 #header {
   grid-column-start: 2;
   grid-column-end: span 2;
@@ -13,7 +17,7 @@
 #navigation {
   grid-column-start: 2;
   text-align: center;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid #0e0e11;
 }
 
 #main {
