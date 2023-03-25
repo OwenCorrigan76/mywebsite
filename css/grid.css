@@ -36,7 +36,7 @@
   grid-column-start: 2;
   display: grid;
   grid-template-columns: 16% 16% 16% 16% 16%;
-  grid-gap: 3%;
+  grid-gap: 2%;
 }
 #maincontent3 {
   grid-column-start: 1;
