@@ -3,11 +3,13 @@
 @import url("nav.css");
 
 body {
+  margin: auto;
   font-family: Verdana, Helvetica, Arial, sans-serif;
   font-size: small;
   line-height: 1.6em;
   background-size: cover;
   background: url(../images/5.png) no-repeat center fixed;
+  gap: 2px;
 }
 /*div {
   color: white;
